@@ -47,7 +47,7 @@ class _QuotesState extends State<Quotes> {
                     fontSize: 25.0,
                   ),
                 ),
-            ),U
+            ),
             Divider(
               thickness: 1.5,
             ),
